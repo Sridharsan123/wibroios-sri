@@ -1,0 +1,9 @@
+let collegeName = "KIT"
+        var studentName = "Dharsan"
+        var Mark = "75"
+        print(collegeName)
+        print(studentName)
+        print("Before Update Mark: "+Mark)
+
+        Mark = "100"
+        print("Updated Mark: "+Mark)
