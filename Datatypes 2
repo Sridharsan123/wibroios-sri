@@ -1,0 +1,12 @@
+
+let name = "Sri dharsan"
+let age = 20
+let course = "CSE"
+let isStudent = true
+
+print("===== Student Profile =====")
+print("Name: \(name)")
+print("Age: \(age)")
+print("Course: \(course)")
+print("Student: \(isStudent ? "Yes" : "No")")
+
